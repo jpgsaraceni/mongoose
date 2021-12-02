@@ -1,0 +1,29 @@
+{
+  "dependencies": {
+    "mongoose": "^6.0.14"
+  },
+  "name": "mongoose",
+  "version": "1.0.0",
+  "description": "first steps with mongoose",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jpgsaraceni/mongoose.git"
+  },
+  "keywords": [
+    "mongoose",
+    "nosql",
+    "mongodb",
+    "nodejs"
+  ],
+  "author": "Joao Saraceni",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jpgsaraceni/mongoose/issues"
+  },
+  "homepage": "https://github.com/jpgsaraceni/mongoose#readme"
+}
